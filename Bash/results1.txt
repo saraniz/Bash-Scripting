@@ -1,0 +1,17 @@
+File name is 
+Error count: 6
+Warning count: 3
+   Database connection failed
+   Database connection failed
+   Timeout while calling API
+   Timeout while calling API
+   Timeout while calling API
+   Database connection failed
+Database connection failed
+Database connection failed
+Timeout while calling API
+Timeout while calling API
+Timeout while calling API
+Database connection failed
+Most frequent errors
+      3 Timeout while calling API
