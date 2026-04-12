@@ -1,0 +1,14 @@
+Welcome Amie to Bash Scripting lesson
+Amie age is 23
+Today is date +%Y-%m-%d & time is date +%H:%M:%S
+Amie is Adult
+Welcome Amie to Bash Scripting lesson
+Amie age is 23
+Welcome Amie to Bash Scripting lesson
+Amie age is 23
+Today is 2026-04-12 &
+Amie is Adult
+Welcome Amie to Bash Scripting lesson
+Amie age is 23
+Today is 2026-04-12 & time is 12:18:58
+Amie is Adult
