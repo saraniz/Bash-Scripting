@@ -1,0 +1,35 @@
+ is exist
+file is not exist
+log-analyzer/app.log is exist
+log-analyzer/app.log is exist
+log-analyzer/app.log is exist
+2026-04-12 10:00:01 INFO Application started
+
+2026-04-12 10:00:05 INFO User login successful
+
+2026-04-12 10:01:10 WARNING Disk usage at 80%
+
+2026-04-12 10:02:15 ERROR Database connection failed
+
+2026-04-12 10:02:20 ERROR Database connection failed
+
+2026-04-12 10:03:00 INFO Scheduled job started
+
+2026-04-12 10:03:30 WARNING Memory usage high
+
+2026-04-12 10:04:10 ERROR Timeout while calling API
+
+2026-04-12 10:04:15 ERROR Timeout while calling API
+
+2026-04-12 10:04:20 ERROR Timeout while calling API
+
+2026-04-12 10:05:00 INFO User logout successful
+
+2026-04-12 10:06:10 WARNING Disk usage at 80%
+
+2026-04-12 10:07:25 ERROR Database connection failed
+
+2026-04-12 10:08:40 INFO Application stopped
+Error count: 6
+Info count: 5
+Warning count: 3

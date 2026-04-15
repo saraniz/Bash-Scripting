@@ -1,0 +1,4 @@
+No file
+File exists: log-analyzer/app.log
+Number of lines : 27
+Number of words: 87
